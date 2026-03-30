@@ -25,13 +25,24 @@
     },
        {
       "nombre": "Windows 11 25H2 x64 Multi-Edición | Portugués Brasil",
-      "archivo": "Win11_25H2_Portuguese_Brazil_x64_v2.iso",
+      "archivo": "Win11_25H2_BrazilianPortuguese_x64_v2.iso",
       "Código hash": "50FE4703CF0DF0072E093D1F5D58ED450E4C49D8CA960433BBE6278D5EF10107",
       "url": "https://software.download.prss.microsoft.com/dbazure/Win11_25H2_BrazilianPortuguese_x64_v2.iso?t=24e9f29c-e2d2-45f5-bd5c-b734c0579721&P1=1774991366&P2=601&P3=2&P4=YZtunHzS69G%2b5itE2%2f6Yy56ZC8T6cCgt1CjL96chm3Qesn2IUV%2bFc5jCMc7aw5wF%2fy04YkIypJI6QJQUYfYm80p%2fyGFD5I05ZUzDmw3mEMi3G0y%2bORIOpr6iFTUK90s2uKeC5np%2f7JSlT9V%2fPeHHLCovspRJvKDimTJA%2f6PcpioQ8QoeHn4eYeBcQchpeipkG9%2fesfO5KuR3m8l2MZLfeAqAt%2bXv7vBnV%2bm%2b4nSCUkjPiaSCvxRhuGq%2bAYs3A7Ju5hAc74SmvCxXQDjM7Jy61g2X8fhrbpvbTx3zkjTMNR6eeVp7tF7rifJ0lwEGdnUdyqIwwsEIy7c2Ui5yvzp6sA%3d%3d",
       "idioma": "Portugués Brasil | pt-BR",
       "arquitectura": "x64",
       "tamaño": "7.6 GB",
       "edicion": "Multiedición"
+
+    },
+        {
+      "nombre": "Windows 11 25H2 x64 Multi-Edition | English International",
+      "archivo": "Win11_25H2_EnglishInternational_x64_v2.iso",
+      "Código hash": "66B7B4B71763ED6F9B2CE29326ED9284544DA6F5283D00329921540C01AAAEEA",
+      "url": "https://software.download.prss.microsoft.com/dbazure/Win11_25H2_EnglishInternational_x64_v2.iso?t=2fc491cc-25a6-48f2-88b4-1c4742b379fd&P1=1774991793&P2=601&P3=2&P4=bqUNX%2bwJIW8uZM3JaIzDii%2fgzf%2fzYmZI6ZU4U6PXbaAKc%2btFbp%2fSS6cMb%2bkyrIHOJBPW6R6bL6Pb5kmo9azXyhy8GyBk54Xjn7QeaOaQDRFOkpFejgu1fzIg6mjO4KdR6XB40wgMwU%2fwgNpLewsD%2bJJiIopB38dGIaZuFk3kaROhveeB5DIEHD2xoRplZ2mmx0S8fWfLmWCReEWta%2bR7sG6C4FF8JNyqObPhAWMpAlji3sueRo6lXve4RcRTg%2bEMVEv9ZKv4oy3kOco%2bj4PLkTCLunLXeM21hKimg55xYFCn9kvDVly%2bmV%2bnLC%2fynLu%2ftyssO0Gm9UuMLcbOtbR6ew%3d%3d",
+      "idioma": "English International | en-INT",
+      "arquitectura": "x64",
+      "tamaño": "7.9 GB",
+      "edicion": "Multiedition"
 
     }
   ]
