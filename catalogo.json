@@ -2,9 +2,15 @@
   "version": 1,
   "isos": [
     {
-      "nombre": "Windows 11 24H2 Pro x64",
-      "url": "https://...",
-      "sha256": ""
+      "nombre": "Windows 11 25H2 x64 Multi-Edición",
+      "archivo": "Win11_25H2_Spanish_x64_v2.iso",
+      "sha256": "F5495DFCEA4294C7924420AD860F409623575436F85A8D0A66A6BD9A1C3433D6",
+      "url": "https://software.download.prss.microsoft.com/dbazure/Win11_25H2_Spanish_x64_v2.iso?t=80e87fbb-8626-46f7-bf3c-63e59ad4f8f0&P1=1774988240&P2=601&P3=2&P4=RBKkB%2fkWj2IYMJ6aUM%2b9A2JLcctIPm3lT%2fnA%2bwmvpOH4SpuD3Ldw5kTdvFedhqC08cQclghtA6Gu0BsDI7%2fxCEN00UeZv2EGmBMcEffds2%2bcUsR21fuE8OHajLqVqEJBJfjh0H2ZmwX9PcVLjgrvHTHoYvrsZx5BRlIT7Y0cVCjT64QEAEJpO8ChNPsFjAH%2boOStKeGPD9c6ilpeSv6xzi0emvb060ZuleP8pB803to1%2bwqsptzWj5RPvnVhNymNQsIIDkW1zV8jeAQkyPybnheu1uXhONjsbDdI7eLx1V7HJ1PCDqlE9xI9QZMjcL9s0Xiw849cztw5qXem9EDGMw%3d%3d",
+      "idioma": "Español España | es-ES",
+      "arquitectura": "x64",
+      "tamaño": "5.4 GB",
+      "edicion": "Pro"
+
     },
     {
       "nombre": "Windows 10 LTSC 2021 x64",
