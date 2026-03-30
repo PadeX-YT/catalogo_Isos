@@ -2,20 +2,37 @@
   "version": 1,
   "isos": [
     {
-      "nombre": "Windows 11 25H2 x64 Multi-Edición",
+      "nombre": "Windows 11 25H2 x64 Multi-Edición | Español España",
       "archivo": "Win11_25H2_Spanish_x64_v2.iso",
-      "sha256": "F5495DFCEA4294C7924420AD860F409623575436F85A8D0A66A6BD9A1C3433D6",
+      "Código hash": "F5495DFCEA4294C7924420AD860F409623575436F85A8D0A66A6BD9A1C3433D6",
       "url": "https://software.download.prss.microsoft.com/dbazure/Win11_25H2_Spanish_x64_v2.iso?t=80e87fbb-8626-46f7-bf3c-63e59ad4f8f0&P1=1774988240&P2=601&P3=2&P4=RBKkB%2fkWj2IYMJ6aUM%2b9A2JLcctIPm3lT%2fnA%2bwmvpOH4SpuD3Ldw5kTdvFedhqC08cQclghtA6Gu0BsDI7%2fxCEN00UeZv2EGmBMcEffds2%2bcUsR21fuE8OHajLqVqEJBJfjh0H2ZmwX9PcVLjgrvHTHoYvrsZx5BRlIT7Y0cVCjT64QEAEJpO8ChNPsFjAH%2boOStKeGPD9c6ilpeSv6xzi0emvb060ZuleP8pB803to1%2bwqsptzWj5RPvnVhNymNQsIIDkW1zV8jeAQkyPybnheu1uXhONjsbDdI7eLx1V7HJ1PCDqlE9xI9QZMjcL9s0Xiw849cztw5qXem9EDGMw%3d%3d",
       "idioma": "Español España | es-ES",
       "arquitectura": "x64",
-      "tamaño": "5.4 GB",
-      "edicion": "Pro"
+      "tamaño": "7.6 GB",
+      "edicion": "Multiedición"
 
     }, 
     {
-      "nombre": "Windows 10 LTSC 2021 x64",
-      "url": "https://...",
-      "sha256": ""
+      "nombre": "Windows 11 25H2 x64 Multi-Edición | Español México",
+      "archivo": "Win11_25H2_Spanish_Mexico_x64_v2.iso",
+      "Código hash": "40DEAA9575396C64794B6A9B470F96AD68BB9FD5AAC4298A3DE7A665BA0B1AE7",
+      "url": "https://software.download.prss.microsoft.com/dbazure/Win11_25H2_Spanish_Mexico_x64_v2.iso?t=ab0e7e79-ea04-45f2-8753-f6f9caab337b&P1=1774991043&P2=601&P3=2&P4=dnd4bD9acfpHJ6dHa3Y%2fNsSPLZ5XtKfc0J3VsOstoLujj12PLhE2vuTYEScJbKJMeB4KbnmrBMlegMrdG7n9OH52z%2bOz5EqUSV8HNXGvPHfHfiWt0PwW14cYBIJibDNvZxzkm0M5tT4qk8IeUTPky9YU6mqIfgfcOGEBjd%2bR8AXsyzq%2bnufwrv3OKOeQ69uyV0g53KcC47vSdNFxjRm2CuyotlTxS4lvpbLRdUTr6MRggfRTWGHjHPoQn4uRqKOzFnD6V%2bkkD2FtgAiCEIfN0JEVzusMtLBoP6pijv2Puj9RHTrBFS7gILCSnGQQaYa9r%2fuAhUth2CoMaPqdkA9Rhg%3d%3d",
+      "idioma": "Español México | es-MX",
+      "arquitectura": "x64",
+      "tamaño": "7.6 GB",
+      "edicion": "Multiedición"
+
+    },
+       {
+      "nombre": "Windows 11 25H2 x64 Multi-Edición | Portugués Brasil",
+      "archivo": "Win11_25H2_Portuguese_Brazil_x64_v2.iso",
+      "Código hash": "50FE4703CF0DF0072E093D1F5D58ED450E4C49D8CA960433BBE6278D5EF10107",
+      "url": "https://software.download.prss.microsoft.com/dbazure/Win11_25H2_BrazilianPortuguese_x64_v2.iso?t=24e9f29c-e2d2-45f5-bd5c-b734c0579721&P1=1774991366&P2=601&P3=2&P4=YZtunHzS69G%2b5itE2%2f6Yy56ZC8T6cCgt1CjL96chm3Qesn2IUV%2bFc5jCMc7aw5wF%2fy04YkIypJI6QJQUYfYm80p%2fyGFD5I05ZUzDmw3mEMi3G0y%2bORIOpr6iFTUK90s2uKeC5np%2f7JSlT9V%2fPeHHLCovspRJvKDimTJA%2f6PcpioQ8QoeHn4eYeBcQchpeipkG9%2fesfO5KuR3m8l2MZLfeAqAt%2bXv7vBnV%2bm%2b4nSCUkjPiaSCvxRhuGq%2bAYs3A7Ju5hAc74SmvCxXQDjM7Jy61g2X8fhrbpvbTx3zkjTMNR6eeVp7tF7rifJ0lwEGdnUdyqIwwsEIy7c2Ui5yvzp6sA%3d%3d",
+      "idioma": "Portugués Brasil | pt-BR",
+      "arquitectura": "x64",
+      "tamaño": "7.6 GB",
+      "edicion": "Multiedición"
+
     }
   ]
 }
