@@ -202,22 +202,16 @@ Ejemplos:
 - `Home`
 - `LTSC`
 
-## Recomendaciones para mantener el catalogo
 
-- Mantener una estructura consistente entre entradas.
-- Escribir los campos en el orden exacto en que se quieren mostrar en BCDeX.
-- Indicar claramente si una ISO es oficial o modificada.
-- No dejar URLs vacias salvo que esa entrada sea solo informativa.
-- Revisar siempre el hash antes de publicar una nueva entrada.
 
 ## Nota importante sobre ISOs modificadas
 
-Si se agregan ISOs modificadas en el futuro, conviene indicarlo de forma explicita en la informacion de la entrada.
+Si se agregaran ISOs modificadas en el catálogo en el futuro, seré muy claro e indicaré la fuente de esa iso de forma explicita en la informacion de la entrada.
 
 Ejemplos recomendados:
 
-- `fuente: Proyecto propio`
+- `fuente: Proyecto de 3ros`
 - `tipo: ISO modificada`
 - `base: Windows 11 25H2 oficial`
 
-La idea es que el usuario sepa en todo momento si esta descargando una ISO oficial o una build personalizada.
+La idea es que tú, como usuario, sepas en todo momento si esta descargando una ISO oficial o una build de terceros.
