@@ -154,7 +154,7 @@ Sirve para comprobar integridad y autenticar que el archivo descargado coincide 
 En la practica:
 
 - Si el hash coincide, el archivo no ha cambiado respecto al publicado.
-- Si no coincide, la ISO no debe considerarse valida.
+- Si no coincide, la ISO no debe considerarse valida o Modificada.
 
 ### `url`
 
