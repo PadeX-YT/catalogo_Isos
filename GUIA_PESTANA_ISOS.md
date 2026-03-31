@@ -72,12 +72,12 @@ Ejemplo base:
       "nombre": "Windows 11",
       "isos": [
         {
-          "nombre": "Windows 11 25H2 x64 Multi-Edicion | Espanol Espana",
+          "nombre": "Windows 11 25H2 x64 Multi-Edicion  Espanol España",
           "fuente": "Microsoft",
           "archivo": "Win11_25H2_Spanish_x64_v2.iso",
           "Codigo hash": "F5495DFCEA4294C7924420AD860F409623575436F85A8D0A66A6BD9A1C3433D6",
           "url": "https://...",
-          "idioma": "Espanol Espana | es-ES",
+          "idioma": "Espanol España | es-ES",
           "arquitectura": "x64",
           "tamano": "7.6 GB",
           "edicion": "Multiedicion"
@@ -127,7 +127,7 @@ Debe ser claro y descriptivo.
 
 Ejemplo:
 
-- `Windows 11 25H2 x64 Multi-Edicion | Espanol Espana`
+- `Windows 11 25H2 x64 Multi-Edicion | Espanol España`
 
 ### `fuente`
 
@@ -168,9 +168,9 @@ Idioma o variante regional de la ISO.
 
 Ejemplos:
 
-- `Espanol Espana | es-ES`
-- `Espanol Mexico | es-MX`
-- `Portugues Brasil | pt-BR`
+- `Español España | es-ES`
+- `Español Mexico | es-MX`
+- `Portugués Brasil | pt-BR`
 - `English International | en-INT`
 
 ### `arquitectura`
