@@ -50,5 +50,97 @@
         }
       ]
     }
+  ],
+  "nombre": "Windows 10",
+  "isos": [{
+    "nombre": "Windows 10 22H2 x86 Multi-Edición | Español España",
+    "fuente": "Microsoft",
+    "archivo": "Win10_22H2_Spanish_x32v1.iso",
+    "Código hash": "DB414636D7EC65B1AEFCC1242D323E839823DB21FD25A2A9C5DCECC3C16C3309",
+    "url": "https://software.download.prss.microsoft.com/dbazure/Win10_22H2_Spanish_x32v1.iso?t=622aac4d-b211-46a1-9a2e-c3dafe70008d&P1=1775033576&P2=601&P3=2&P4=cz0J5poyAjY2O4Z2qfivZhjJaseuI7nrCnM8%2bK00gVgZA1umZ2nrmRCBIVK6o33gsd6%2bySptkKBdotmynYrO2tveKNhK3zQInE8r15U9QkMtfzDO0RIUVK4I8zvs2KHcV0h4P6ge0m7hl2pYWAxgTV59ZDYhAmnN5F6VpDlrhXoOMdQK8KypX%2bql0G36edccThKNMNAj0eLcY7gGK2GvgKOrZuE9sxWruFtGyZgjogk7eO9f3LYgHO4syFSht0dmrJaAGse2huZG2e93n4tZG050Pn%2fqK98VDSEyZAKL7lulsDiXNlZ2wOiUuIxtIjpC7ZFrQvP0aMbNltRlFnCOtg%3d%3d",
+    "idioma": "Español España | es-ES",
+    "arquitectura": "x86",
+    "tamaño": "4.0 GB",
+    "edición": "Multiedición"
+  },
+  {
+    "nombre": "Windows 10 22H2 x64 Multi-Edición | Español España",
+    "fuente": "Microsoft",
+    "archivo": "Win10_22H2_Spanish_x64v1.iso",
+    "Código hash": "0D48C6F236CA9F966ECCD84D9BE01B038516567AABF1C46DCBEE785556B19813",
+    "url": "https://software.download.prss.microsoft.com/dbazure/Win10_22H2_Spanish_x64v1.iso?t=622aac4d-b211-46a1-9a2e-c3dafe70008d&P1=1775033576&P2=601&P3=2&P4=RRXBP5awYt%2bD6CWAIcrxob6IpHCu%2b9Io5p7x0WsA74mKr8x2%2fLTb9RV8TUoz9lb6mt36Ja%2fN1%2fH7qVR%2bTXGftNZQ4b0Hp%2bhqXdNrQiWlJBmBGKpfhtAMZoGrNc3qNuY0Da0ydzGJVKqx6O7PuXJYEiXexcC1hka1syEKHW4MXn5%2fsO99Poja3MyL52KM2Yuq4SF7n0O7K7aTugoaCvSt5tpUNdnP3rSlmmpO01c%2b19vcUCQIuY40mw1dMe%2f0zQF9BhBuziqtEcMI8xCe21gB77reHiVbhTBX2x%2f51d5FHiuQ7%2bjT0GXpNY9roXy4gtPPGa9MfS%2fPk%2bbnnQoTc8CY0g%3d%3d",
+    "idioma": "Español España | es-ES",
+    "arquitectura": "x64",
+    "tamaño": "5.7 GB",
+    "edición": "Multiedición"
+  },
+   {
+    "nombre": "Windows 10 22H2 x86 Multi-Edición | Español México",
+    "fuente": "Microsoft",
+    "archivo": "Win10_22H2_Spanish_Mexico_x32v1.iso",
+    "Código hash": "C91F1C1EE9CCD88215CE9AD3EF4303997C78715C5A84C8A4D8C9F67D307A3633",
+    "url": "https://software.download.prss.microsoft.com/dbazure/Win10_22H2_Spanish_Mexico_x32v1.iso?t=1b97c315-2b32-4dd1-87f8-7e7121ec83dd&P1=1775035209&P2=601&P3=2&P4=CYtreP79pCtJEt5uCQs%2bJCBFsfZJ4Unr0ZNhKbxSINrcVVWEN65SfwPbbpeFH0xMEaDM%2fPeJvqstnWW1IQcdQ0LuaSQ1nGXIx2Hl1oqzXPREAslufLM2PHg0o6aBwDzhKDKL%2bOnvD39gaug9jnwAKYo%2bKJ%2fvjmnCOxplvRxZAQSBoguv2TfEx%2bJiIGoNZ7RSNSWjBAXMXsKWeZw1HNbUBd%2fSCs91MgsFEthAf0s%2fVHdEUbbamebndJHmNmhSdyBZa6ykBnUOp5zJQv4pWXGxmoJ8tLz1cnaNnfr36VpHWn2EXf1nDWxDtNS3VWAZMlXbUDKU%2fx2kJ6HTk5JSctFAEA%3d%3d",
+    "idioma": "Español México | es-MX",
+    "arquitectura": "x86",
+    "tamaño": "3.8 GB",
+    "edición": "Multiedición"
+  },
+   {
+    "nombre": "Windows 10 22H2 x64 Multi-Edición | Español México",
+    "fuente": "Microsoft",
+    "archivo": "Win10_22H2_Spanish_Mexico_x64v1.iso",
+    "Código hash": "BF02C401644A4A9249EE206FAA9FD1691F4EC18BB37A9EA4FFE5C010DC147492",
+    "url": "https://software.download.prss.microsoft.com/dbazure/Win10_22H2_Spanish_Mexico_x64v1.iso?t=1b97c315-2b32-4dd1-87f8-7e7121ec83dd&P1=1775035209&P2=601&P3=2&P4=1PWQff9DZUBArLVMcHEp%2bSA%2bynetOp%2f%2bwb46V4HiRzpGqy9tI9GUWZp%2bD1cj7CEGyiG8IUac5xjgKtxqsp6oofp1NzwQc0XIrJc5cFVa3pYGx3%2bLcxabaRd31YoZyk0sPkWLzTxa3LNCrAxHncgPzi04o%2fZ%2fNRJ5rR%2budH4ne7Y27WwwiIcEdD9FlD%2flm7AFd3RPBoQpK5M8kURdyfkdSkwiIx5kDeBnlKUeyOOa61f1LVIKNTBcFSu8pjk2EUtIVvWBMKuWr7c6KctmUN5RB8aZRUG86QTi50vcj2%2f%2bFRwrJ5%2bVg%2f3WQXpGbzEpqAR%2fp6ewARJ8G%2fH9Y1t8mqq0AQ%3d%3d",
+    "idioma": "Español México | es-MX",
+    "arquitectura": "x64",
+    "tamaño": "5.4 GB",
+    "edición": "Multiedición"
+  },
+   {
+    "nombre": "Windows 10 22H2 x86 Multi-Edición | English International",
+    "fuente": "Microsoft",
+    "archivo": "Win10_22H2_EnglishInternational_x32v1.iso",
+    "Código hash": "38D093AE08BF80302B900BC91A2CE5205C5086DDEEFAB29E8D529D5607B6B4DB",
+    "url": "https://software.download.prss.microsoft.com/dbazure/Win10_22H2_EnglishInternational_x32v1.iso?t=41ff5cc9-e7e5-4f11-ac80-a2af5c9a3445&P1=1775035281&P2=601&P3=2&P4=sWSdCowFIm65zhHujb8%2fVxISx6Yt1XNCKG1r6tADCekV%2bMLSrLPK22eOxsVKOgVUzterR6mKXd0salOWMMNZMkNzx92MofRWvlnMnFZYH8N2XXyEODHEf9CeFM5DUYfCPMB%2bqe5r3NENZa2E7bmVAK4qANJFTH6xn259Fx5Prp5YNgLLTrFxSyISWeZdQo7Ed9hzL0Ghm1mg4cW0E%2ftKZ0OUH5IE1kEL7Bn0Q0wtGAAkRGTtvkvmWyULV4pmbhi%2b0oRwYGd7ggsq1cFNGKtVqjyFJ3DgydCILghzMU2KEs4E7cCniNhU%2fT8WUEJ1zKRmLhrWNGhi1ZKkDICjbONwFQ%3d%3d",
+    "idioma": "English International | en-INT",
+    "arquitectura": "x86",
+    "tamaño": "4.0 GB",
+    "edición": "Multiedición"
+  },
+   {
+    "nombre": "Windows 10 22H2 x64 Multi-Edición | English International",
+    "fuente": "Microsoft",
+    "archivo": "Win10_22H2_EnglishInternational_x64v1.iso",
+    "Código hash": "EDC53C5C5FE6926DEA23FC3E884FBCF78CC2B9E76364BE968F806FC6D42B59D2",
+    "url": "",
+    "idioma": "English International | en-INT",
+    "arquitectura": "x64",
+    "tamaño": "5.7 GB",
+    "edición": "Multiedition"
+  },
+  {
+    "nombre": "Windows 10 22H2 x86 Multi-Edición | Portugués Brasil",
+    "fuente": "Microsoft",
+    "archivo": "Win10_22H2_BrazilianPortuguese_x32v1.iso",
+    "Código hash": "69E4B7ED9E5D7CEA72C075E63A493C867275608B8F9E9D1FE7D711459B32D1BE",
+    "url": "https://software.download.prss.microsoft.com/dbazure/Win10_22H2_BrazilianPortuguese_x32v1.iso?t=b9f6b6fb-3d61-420f-915c-d91b7f000386&P1=1775035785&P2=601&P3=2&P4=UmiKJJ5XQmIIhRuZVidpwna%2f%2fw7Djp0dEOvsIH4hSDN4nI1kTobzTKwHQrn8KNQNl9Rn3pdLZtu3FL2HtsR8nqJ3qsBDKUtRAedCnfLK2GOodbRGVbZz71Z1ekQ0nWoO8on%2bnl10eRwbQ%2f8kHfJJMluRpMxLriSChTGEc2emKugBfX07IMc9IMBR8RUDHP91YMxSH1zuk%2bw%2bYEjRnts%2b%2bVnx%2begppt%2f47CnUWpIivAmr4EEYjFYRYNWLs%2bIofDAASt5rf7fvfAMU%2f2pRi404le5PUUNzDvycZ4vP79qsJo3ekUUOrQAwGK8tKMFk7TSkqBOftgsgGwJK%2b9i4n2AMPA%3d%3d",
+    "idioma": "Portugués Brasil | pt-BR",
+    "arquitectura": "x86",
+    "tamaño": "3.8 GB",
+    "edición": "Multiedición"
+  },
+  {
+    "nombre": "Windows 10 22H2 x64 Multi-Edición | Portugués Brasil",
+    "fuente": "Microsoft",
+    "archivo": "Win10_22H2_BrazilianPortuguese_x64v1.iso",
+    "Código hash": "83F83B5A9101F5FA21DE4E925ABC7693478D84CD5FBF02CB019393048B5BDBBB",
+    "url": "https://software.download.prss.microsoft.com/dbazure/Win10_22H2_BrazilianPortuguese_x64v1.iso?t=b9f6b6fb-3d61-420f-915c-d91b7f000386&P1=1775035785&P2=601&P3=2&P4=lIWUjMGXOa6sVx7moj8OSp03cy2PPID7H9sWYNH6zpaTyNJKKz15VlUcHuXO%2f7aQohjNOdQoTP%2bNeb07Mw17KeNgXxS7qMSom%2f11W%2fQ6lDUAdnXt%2b9%2fwOCzmMZB2pp2AqTMZBQzbTDkZ0SXbqMwWuT7U51961xqousPXKhNfO7icpharPmNuaDw%2fmfn%2fctVv5t7xhYFuBTN4u%2fo0fu49fi%2fhfqHBQg1D1kD2TGmSY%2fqbSVl%2biRNlkO4QWiB5fw2wS%2bYOPtvlV9Ns1bxYqW3Ms5DfEchc2COCXugRZRcrx2jNE5Ievttbdalq3xtSqAPe9DneTH4pUsV94LN5NzQOUw%3d%3d",
+    "idioma": "Portugués Brasil | pt-BR",
+    "arquitectura": "x64",
+    "tamaño": "5.4 GB",
+    "edición": "Multiedición"
+  }
+   
   ]
+
 }
